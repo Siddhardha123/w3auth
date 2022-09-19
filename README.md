@@ -1,2 +1,3 @@
-#web3 auth
+# web3 auth
+
 an authentication infrastructure for dApps 
