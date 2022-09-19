@@ -4,7 +4,7 @@ import { CHAIN_NAMESPACES, SafeEventEmitterProvider } from "@web3auth/base";
 import RPC from "./web3RPC";
 import "./App.css";
 
-const clientId = "YOUR_WEB3AUTH_CLIENT_ID"; // get from https://dashboard.web3auth.io
+const clientId = "BFL3PdgaNapy8ZLWvZ6NNy1njWCbBVI8uD6EH9W5VY-fK9PbwnC0PEIoEkrtn1n3K7rF0PweUlI1posZD_EbVp8"; // get from https://dashboard.web3auth.io
 
 function App() {
   const [web3auth, setWeb3auth] = useState<Web3Auth | null>(null);
